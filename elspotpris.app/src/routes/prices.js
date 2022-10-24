@@ -1003,12 +1003,11 @@ export const products = [
             },
             {
                 name: "Spotpris tillæg",
-                amount: 0.04,
-                calculated: true
+                amount: 0.04
             },
 	    {
                 name: "Abonnement pr. kWh",
-		amount: 0.036,
+		amount: 0.036
 	    }			
         ],
         fees: [
